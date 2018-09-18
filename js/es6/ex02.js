@@ -1,0 +1,1 @@
+console.log(`Bonjour, ${process.argv[2]} !\nTon nom en minuscules est "${process.argv[2].toLowerCase()}".`)
